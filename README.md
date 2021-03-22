@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Atul Sharma
+- 👋 Hi, I’m Atul Sharma, graduate student at North Carolina State University.
 - 👀 I’m interested in Full Time Position starting from June 2021 in Cloud, Virtualization, DevOps, Systems, Software Development and Networking.
 - 🌱 I’m currently learning DevOps, Network Virtualization and Networking Protocols (Layer 2/3/4).
 - 💞️ I’m collaborating on Wireshark (Network Analyzer tool) for RFC 8926 (Geneve Expansion to multi vendor support) and RFC 8393 for Network Service Header. 
